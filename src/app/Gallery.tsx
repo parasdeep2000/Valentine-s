@@ -15,7 +15,7 @@ const Gallery = () => {
       <h1 className="text-pink-500 italic font-bold text-center text-4xl mt-6  p-1">
         Happy Valentine's Day!
         <br />
-        <span className="block">My Boss</span>
+        <span className="block">My Soniya Baby</span>
       </h1>
 
       <div className="flex flex-wrap justify-center">

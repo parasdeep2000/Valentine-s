@@ -25,7 +25,7 @@ function App() {
         {currentPage !== "gallery" && (
           <>
             <h1 className="text-4xl font-bold text-red-600 mb-4">
-              Our Love❤️ Story
+              I Love❤️ Soniya
             </h1>
             <div className="space-y-5">
               {/* Placeholder for love story */}
